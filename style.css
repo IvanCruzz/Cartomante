@@ -15,10 +15,10 @@ body{
   background-attachment: fixed;
   
 }
-vídeo {
+video {
 margin-top: 3rem;
 border-radius: 10px;
-width: 80vw;
+width: 100%;
 }
 
 body::before{
